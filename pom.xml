@@ -178,7 +178,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>${version.compiler.plugin}</version>
+				<version>2.5.1</version>
 				<configuration>
 					<!-- put your configurations here -->
 					<source>1.8</source>
